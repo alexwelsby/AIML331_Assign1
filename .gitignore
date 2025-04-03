@@ -1,0 +1,7 @@
+*.png
+*.ipynb_checkpoints
+*.tex
+*.jpg
+*.synctex(busy)
+*.aux
+*.log
